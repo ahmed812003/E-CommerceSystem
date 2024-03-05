@@ -1,0 +1,12 @@
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\bin\Debug\net8.0\ECommerceSystem.Entities.deps.json
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\bin\Debug\net8.0\ECommerceSystem.Entities.dll
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\bin\Debug\net8.0\ECommerceSystem.Entities.pdb
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.csproj.AssemblyReference.cache
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.AssemblyInfoInputs.cache
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.AssemblyInfo.cs
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.csproj.CoreCompileInputs.cache
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.dll
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\refint\ECommerceSystem.Entities.dll
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.pdb
+F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ref\ECommerceSystem.Entities.dll
