@@ -27,10 +27,12 @@ namespace ECommerceSystem.Controllers
         [HttpGet("GetCartProducts")]
         public async Task<IActionResult> GetProducts()
         {
-            string? UserId = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's userId
+            string? Username = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's userId
             //string? UserId = "c19b9924-6399-4128-abe8-c5a591d10c3c";
-            if (UserId == null)
+            if (Username == null)
                 return BadRequest("Register Or Login Please!");
+            var user = await _userManager.FindByNameAsync(Username);
+            string UserId = user.Id;
             var Cart = await _unit.Cart.FindByUserId(UserId);
             if(Cart == null)
             {
@@ -70,11 +72,13 @@ namespace ECommerceSystem.Controllers
         [HttpDelete("RemoveProduct")]
         public async Task<IActionResult> RemoveProduct(int Id)
         {
-            string? userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            //string? userId = "c19b9924-6399-4128-abe8-c5a591d10c3c";
-            if (userId == null)
+            string? Username = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's userId
+            //string? UserId = "c19b9924-6399-4128-abe8-c5a591d10c3c";
+            if (Username == null)
                 return BadRequest("Register Or Login Please!");
-            var Cart = await _unit.Cart.FindByUserId(userId);
+            var user = await _userManager.FindByNameAsync(Username);
+            string UserId = user.Id;
+            var Cart = await _unit.Cart.FindByUserId(UserId);
             var result = await _unit.CartProduct.DeleteProductAsync(Id, Cart.Id);
             if (!result)
                 return BadRequest($"The Product With Id {Id} Doesn't Exists!");

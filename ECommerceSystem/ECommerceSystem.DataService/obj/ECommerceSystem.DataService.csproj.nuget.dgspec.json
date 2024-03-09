@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.DataService\\ECommerceSystem.DataService.csproj": {}
+    "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.DataService\\ECommerceSystem.DataService.csproj": {}
   },
   "projects": {
-    "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.DataService\\ECommerceSystem.DataService.csproj": {
+    "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.DataService\\ECommerceSystem.DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.DataService\\ECommerceSystem.DataService.csproj",
+        "projectUniqueName": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.DataService\\ECommerceSystem.DataService.csproj",
         "projectName": "ECommerceSystem.DataService",
-        "projectPath": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.DataService\\ECommerceSystem.DataService.csproj",
-        "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.DataService\\obj\\",
+        "projectPath": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.DataService\\ECommerceSystem.DataService.csproj",
+        "packagesPath": "C:\\Users\\AHMD YASSER\\.nuget\\packages\\",
+        "outputPath": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.DataService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AHMD YASSER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj": {
-                "projectPath": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj"
+              "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj": {
+                "projectPath": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj"
               }
             }
           }
@@ -38,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -90,21 +85,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj": {
+    "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj",
+        "projectUniqueName": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj",
         "projectName": "ECommerceSystem.Entities",
-        "projectPath": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj",
-        "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.Entities\\obj\\",
+        "projectPath": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj",
+        "packagesPath": "C:\\Users\\AHMD YASSER\\.nuget\\packages\\",
+        "outputPath": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AHMD YASSER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,11 +119,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -160,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

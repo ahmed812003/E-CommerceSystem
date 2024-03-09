@@ -10,3 +10,16 @@ F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj
 F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\refint\ECommerceSystem.Entities.dll
 F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.pdb
 F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ref\ECommerceSystem.Entities.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\bin\Debug\net8.0\ECommerceSystem.Entities.deps.json
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\bin\Debug\net8.0\ECommerceSystem.Entities.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\bin\Debug\net8.0\ECommerceSystem.Entities.pdb
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.csproj.AssemblyReference.cache
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.AssemblyInfoInputs.cache
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.AssemblyInfo.cs
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.csproj.CoreCompileInputs.cache
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.sourcelink.json
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\refint\ECommerceSystem.Entities.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ECommerceSystem.Entities.pdb
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.Entities\obj\Debug\net8.0\ref\ECommerceSystem.Entities.dll

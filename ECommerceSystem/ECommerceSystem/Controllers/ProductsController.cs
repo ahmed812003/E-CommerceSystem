@@ -138,10 +138,12 @@ namespace ECommerceSystem.Controllers
         [HttpPost("AddProductToCart/{Id}")]
         public async Task<IActionResult> AddProductToCart(int Id)
         {
-            string? UserId = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's userId
+            string? Username = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's userId
             //string? UserId = "c19b9924-6399-4128-abe8-c5a591d10c3c";
-            if (UserId == null)
+            if (Username == null)
                 return BadRequest("Register Or Login Please!");
+            var user = await _userManager.FindByNameAsync(Username);
+            string UserId = user.Id;
             var Cart = await _unit.Cart.FindByUserId(UserId);
             if (Cart == null)
             {

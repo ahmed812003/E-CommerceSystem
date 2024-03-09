@@ -887,19 +887,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ahmed\\.nuget\\packages\\": {}
+    "C:\\Users\\AHMD YASSER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj",
+      "projectUniqueName": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj",
       "projectName": "ECommerceSystem.Entities",
-      "projectPath": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj",
-      "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "F:\\Software Engineering\\BackEnd\\API\\ECommerceSystem\\ECommerceSystem.Entities\\obj\\",
+      "projectPath": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.Entities\\ECommerceSystem.Entities.csproj",
+      "packagesPath": "C:\\Users\\AHMD YASSER\\.nuget\\packages\\",
+      "outputPath": "E:\\Software Engineering\\BackEnd\\E-Commerce Project\\E-CommerceSystem\\ECommerceSystem\\ECommerceSystem.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AHMD YASSER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -919,11 +919,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -955,7 +950,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

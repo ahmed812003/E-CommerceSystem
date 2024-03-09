@@ -4,7 +4,6 @@ using ECommerceSystem.DataService.Repositories;
 using ECommerceSystem.DataService.Repositories.Interfaces;
 using ECommerceSystem.DataService.Services;
 using ECommerceSystem.DataService.Services.Interfaces;
-using ECommerceSystem.Entities.Helper;
 using ECommerceSystem.Entities.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
@@ -28,8 +27,6 @@ namespace ECommerceSystem
 
             builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-            builder.Services.Configure<JWT>(builder.Configuration.GetSection("JWT"));
-            builder.Services.AddSingleton<JWT>();
             builder.Services.AddScoped<IAuthService, AuthService>();
             builder.Services.AddAuthentication(options =>
             {
@@ -67,7 +64,7 @@ namespace ECommerceSystem
                     Contact = new OpenApiContact()
                     {
                         Name = "Ahmed Yaser",
-                        Email = "ahmed@gmail.com",
+                        Email = "ay2309133@gmail.com",
                         Url = new Uri("https://mydomain.com")
                     }
                 });

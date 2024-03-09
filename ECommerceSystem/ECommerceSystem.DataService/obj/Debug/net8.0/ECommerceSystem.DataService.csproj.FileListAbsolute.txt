@@ -15,3 +15,21 @@ F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.DataService\
 F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.pdb
 F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.genruntimeconfig.cache
 F:\Software Engineering\BackEnd\API\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ref\ECommerceSystem.DataService.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\bin\Debug\net8.0\ECommerceSystem.DataService.deps.json
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\bin\Debug\net8.0\ECommerceSystem.DataService.runtimeconfig.json
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\bin\Debug\net8.0\ECommerceSystem.DataService.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\bin\Debug\net8.0\ECommerceSystem.DataService.pdb
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\bin\Debug\net8.0\ECommerceSystem.Entities.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\bin\Debug\net8.0\ECommerceSystem.Entities.pdb
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.csproj.AssemblyReference.cache
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.AssemblyInfoInputs.cache
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.AssemblyInfo.cs
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.csproj.CoreCompileInputs.cache
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.sourcelink.json
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.csproj.CopyComplete
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\refint\ECommerceSystem.DataService.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.pdb
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ECommerceSystem.DataService.genruntimeconfig.cache
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem.DataService\obj\Debug\net8.0\ref\ECommerceSystem.DataService.dll

@@ -66,11 +66,11 @@ namespace ECommerceSystem.Controllers
         [HttpPost("AddOrder")]
         public async Task<IActionResult> AddOrder([FromBody] List<CreateOrderProduct> products)
         {
-            //string? UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            string? UserId = "c19b9924-6399-4128-abe8-c5a591d10c3c";
-            if (UserId == null)
+            string? Username = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's userId
+            if (Username == null)
                 return BadRequest("Register Or Login Please!");
-            var user = await _userManager.FindByIdAsync(UserId);
+            var user = await _userManager.FindByNameAsync(Username);
+            string UserId = user.Id;
 
             decimal totalPrice = 0;
             foreach (var Pro in products)
