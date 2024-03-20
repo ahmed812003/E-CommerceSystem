@@ -124,7 +124,7 @@ namespace ECommerceSystem.DataService.Services
             }
             .Union(userClaims)
             .Union(roleClaims);
-
+     
             var symmetricSecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwt["JWT:Key"]));
             var signingCredentials = new SigningCredentials(symmetricSecurityKey, SecurityAlgorithms.HmacSha256);
 
