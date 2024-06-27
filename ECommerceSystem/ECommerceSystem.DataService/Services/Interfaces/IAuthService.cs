@@ -10,9 +10,16 @@ namespace ECommerceSystem.DataService.Services.Interfaces
 {
     public interface IAuthService
     {
-        Task<AuthModel> RegisterAsync(CreateUser model);
+        Task<ProcessResult> RegisterAsync(CreateUser model);
 
         Task<AuthModel> GetTokenAsync(LoginUser model);
+
+        Task<ProcessResult> EmailConfirmationAsync(string userId, string code);
+
+        Task<ProcessResult> ForgetPassword(string email);
+
+        Task<ProcessResult> ResetPasswordAsync(string userId, string code, string newPassword);
+
         Task<string> AddRoleAsync(AddRole model);
     }
 }

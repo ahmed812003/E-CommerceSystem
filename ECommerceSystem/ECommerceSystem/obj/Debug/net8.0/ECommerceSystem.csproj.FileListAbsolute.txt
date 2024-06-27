@@ -525,3 +525,5 @@ E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSys
 E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0\ECommerceSystem.csproj.CopyComplete
 E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0\ECommerceSystem.genruntimeconfig.cache
 E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem\obj\Debug\net8.0\ref\ECommerceSystem.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Software Engineering\BackEnd\E-Commerce Project\E-CommerceSystem\ECommerceSystem\ECommerceSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll

@@ -27,8 +27,7 @@ namespace ECommerceSystem.Controllers
         [HttpGet("GetCartProducts")]
         public async Task<IActionResult> GetProducts()
         {
-            string? Username = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's userId
-            //string? UserId = "c19b9924-6399-4128-abe8-c5a591d10c3c";
+            string? Username = User.FindFirstValue(ClaimTypes.NameIdentifier); // will give the user's username
             if (Username == null)
                 return BadRequest("Register Or Login Please!");
             var user = await _userManager.FindByNameAsync(Username);
